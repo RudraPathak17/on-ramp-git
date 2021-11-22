@@ -1,0 +1,4 @@
+Public int Addition(int a,int b)
+{
+Return a+b;
+}
