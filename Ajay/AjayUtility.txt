@@ -1,0 +1,3 @@
+Public void sub(){
+//This is a subtract function
+}
